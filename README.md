@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @Saiankitpanda
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Saiankitpanda/Saiankitpanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @Saiankitpanda — an aspiring Software Engineer, Quant-in-training & problem solver.
+- 👀 I’m passionate about AI/ML, computational finance, and building data-driven systems that actually make lives easier.
+- 🌱 Currently learning advanced system design, DSA in Java, and cracking the math behind financial models.
+- 💼 Final year B.E. (CSE) student | Creator of Pulse360 (Hospital Analytics) & Smart Stock Predictor 📈
+- 💞️ I’m open to collaborating on full-stack apps, fintech tools, memory-efficient system designs, and research projects.
+- 📫 Reach me via LinkedIn: [Sai Ankit Panda](https://www.linkedin.com/in/saiankitpanda) or email: saiankitpanda@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I balance logic and luck — writing Python by day, predicting markets by night.
