@@ -2,7 +2,7 @@
 
 ---
 
-I'm a **Final Year CSE Student**, an aspiring **Software Engineer** and **Quant-in-training**, actively exploring the intersection of **AI/ML**, **full-stack development**, and **computational finance**.
+I'm a **Pre-final Year CSE Student**, an aspiring **Software Engineer** and **Quant-in-training**, actively exploring the intersection of **AI/ML**, **full-stack development**, and **computational finance**.
 
 - 🎯 Currently building: `Pulse360` (Hospital Ops Platform) & `Smart Stock Price Predictor`
 - 🧠 Learning: Advanced DSA in Java, Systems Design, & Quant Math
