@@ -50,6 +50,7 @@
 ### 📈 GitHub Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=saiankitpanda&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://streak-stats.demolab.com?user=saiankitpanda&theme=tokyonight&hide_border=true" />
 </p>
 ---
 
