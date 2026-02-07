@@ -56,20 +56,18 @@
 </p>
 
 ---
-
-## 📈 GitHub Stats
+### 📊 Most Used Languages
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=saiankitpanda&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://streak-stats.demolab.com?user=saiankitpanda&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiankitpanda&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
 
-## 🧠 Contribution Graph
+### 📈 GitHub Stats
 <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saiankitpanda&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saiankitpanda&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://streak-stats.demolab.com?user=saiankitpanda&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 ## 💬 Quote
