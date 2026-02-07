@@ -48,20 +48,6 @@
   <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css,rust,nodejs,express,react,nextjs,redux,postgres,mongodb,redis,docker,kubernetes,aws,nginx,git,firebase,figma,linux" />
 </p>
 
----
-
-## 📊 Most Used Languages
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiankitpanda&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" />
-</p>
-
----
-### 📊 Most Used Languages
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiankitpanda&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
----
 
 ### 📈 GitHub Stats
 <p>
