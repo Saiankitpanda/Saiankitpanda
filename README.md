@@ -56,15 +56,11 @@
 
 ---
 
-# 📊 GitHub Stats
+## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=saiankitpanda&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-
-<img src="https://streak-stats.demolab.com?user=saiankitpanda&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=saiankitpanda&theme=tokyonight&hide_border=true&border_radius=10&card_width=800" />
 </p>
-
----
 
 # 📈 Contribution Graph
 
