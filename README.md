@@ -34,6 +34,53 @@
 
 ---
 
+                    .-/+oossssoo+/-.               
+                `:+ssssssssssssssssss+:`           
+              -+ssssssssssssssssssyyssss+-         
+            .ossssssssssssssssssdMMMNysssso.       
+           /ssssssssssshdmmNNmmyNMMMMhssssss/      
+          +ssssssssshmydMMMMMMMNddddyssssssss+     
+         /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    
+        .ssssssssdMMMNhsssssssssshNMMMdssssssss.   
+        +sssshhhyNMMNyssssssssssssyNMMMysssssss+   
+        ossyNMMMNyMMhsssssssssssssshmmmhssssssso   
+        ossyNMMMNyMMhsssssssssssssshmmmhssssssso   
+        +sssshhhyNMMNyssssssssssssyNMMMysssssss+   
+        .ssssssssdMMMNhsssssssssshNMMMdssssssss.   
+         /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/    
+          +sssssssssdmydMMMMMMMMddddyssssssss+     
+           /ssssssssssshdmNNNNmyNMMMMhssssss/      
+            .ossssssssssssssssssdMMMNysssso.       
+              -+sssssssssssssssssyyyssss+-         
+                `:+ssssssssssssssssss+:`           
+                    .-/+oossssoo+/-.               
+
+
+Sai Ankit Panda@github
+---------------------------------
+
+OS:        "macOS / Linux"
+Role:      "Software Engineer in Training"
+Focus:     "DSA • System Design • Quant Finance"
+
+Languages: Java, Python, JavaScript, C++
+Stack:     React, Node.js, Docker, PostgreSQL
+Tools:     Git, Linux, AWS, Kubernetes
+
+Projects:
+  • Pulse360 (Hospital Operations Platform)
+  • Smart Stock Price Predictor (ML)
+
+Learning:
+  • Advanced DSA (Java)
+  • System Design
+  • Quantitative Finance
+
+Contact:
+Email:      saiankitpanda@gmail.com
+LinkedIn:   linkedin.com/in/saiankitpanda
+GitHub:     github.com/saiankitpanda
+
 ## 🤝 Connect With Me
 
 <p align="center">
