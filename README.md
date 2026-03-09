@@ -16,43 +16,72 @@
 ---
 
 ## 🚀 About Me
-- 🎯 Currently building: **Pulse360** (Hospital Ops Platform) & **Smart Stock Price Predictor**
-- 🧠 Learning: **Advanced DSA in Java**, **System Design**, **Quant Math**
-- 🌍 Seeking: **Remote jobs, internships, and meaningful collaborations**
-- 🧩 Interests: Trading bots, venture capital, startup ecosystems
-- 😄 Fun fact: *I use Python to build logic, Java to solve structure, and finance to bet on conviction.*
+
+- 🎯 Currently building **Pulse360 (Hospital Ops Platform)**  
+- 📈 Working on **Smart Stock Price Predictor using ML**  
+- 🧠 Learning **Advanced DSA in Java, System Design, Quant Math**  
+- 🌍 Looking for **remote jobs, internships, and impactful collaborations**  
+- 🧩 Interests: **Trading bots, venture capital, startup ecosystems**
 
 ---
 
 ## 🏅 Profile Badges
-<p>
-  <img src="https://komarev.com/ghpvc/?username=saiankitpanda&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/saiankitpanda?label=Followers&style=flat&color=blue" alt="followers"/>
-  <img src="https://img.shields.io/github/stars/saiankitpanda?affiliations=OWNER%2CCOLLABORATOR&style=flat&color=yellow" alt="stars"/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saiankitpanda&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <img src="https://img.shields.io/github/followers/saiankitpanda?label=Followers&style=flat&color=blue"/>
 </p>
 
 ---
 
-## 🤝 Connect with Me
-<p align="left">
-  <a href="https://twitter.com/saiankitpanda"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/saiankitpanda"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+## 🤝 Connect With Me
+
+<p align="center">
+<a href="https://twitter.com/saiankitpanda">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/saiankitpanda">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
 
 ---
 
 ## 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css,rust,nodejs,express,react,nextjs,redux,postgres,mongodb,redis,docker,kubernetes,aws,nginx,git,firebase,figma,linux" />
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css,rust,nodejs,express,react,nextjs,redux,postgres,mongodb,redis,docker,kubernetes,aws,nginx,git,firebase,figma,linux" />
 </p>
 
+---
 
-### 📈 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=saiankitpanda&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img src="https://streak-stats.demolab.com?user=saiankitpanda&theme=tokyonight&hide_border=true" />
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=saiankitpanda&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+
+<img src="https://streak-stats.demolab.com?user=saiankitpanda&theme=tokyonight&hide_border=true" height="180"/>
 </p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saiankitpanda&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🧠 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiankitpanda&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
 ---
 
 ## 💬 Quote
-> *Code with clarity, learn with curiosity, and invest with conviction.*
+
+> Code with clarity, learn with curiosity, and invest with conviction.
