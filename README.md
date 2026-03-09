@@ -19,7 +19,7 @@
 
 - 🎯 Currently building **Pulse360 (Hospital Ops Platform)**  
 - 📈 Working on **Smart Stock Price Predictor using ML**  
-- 🧠 Learning **Advanced DSA in Java, System Design, Quant Math**  
+- 🧠 Learning ** DSA in Java, System Design, Quant Math**  
 - 🌍 Looking for **remote jobs, internships, and impactful collaborations**  
 - 🧩 Interests: **Trading bots, venture capital, startup ecosystems**
 
@@ -34,27 +34,23 @@
 
 ---
 
-                    .-/+oossssoo+/-.               
-                `:+ssssssssssssssssss+:`           
-              -+ssssssssssssssssssyyssss+-         
-            .ossssssssssssssssssdMMMNysssso.       
-           /ssssssssssshdmmNNmmyNMMMMhssssss/      
-          +ssssssssshmydMMMMMMMNddddyssssssss+     
-         /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    
-        .ssssssssdMMMNhsssssssssshNMMMdssssssss.   
-        +sssshhhyNMMNyssssssssssssyNMMMysssssss+   
-        ossyNMMMNyMMhsssssssssssssshmmmhssssssso   
-        ossyNMMMNyMMhsssssssssssssshmmmhssssssso   
-        +sssshhhyNMMNyssssssssssssyNMMMysssssss+   
-        .ssssssssdMMMNhsssssssssshNMMMdssssssss.   
-         /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/    
-          +sssssssssdmydMMMMMMMMddddyssssssss+     
-           /ssssssssssshdmNNNNmyNMMMMhssssss/      
-            .ossssssssssssssssssdMMMNysssso.       
-              -+sssssssssssssssssyyyssss+-         
-                `:+ssssssssssssssssss+:`           
-                    .-/+oossssoo+/-.               
+    ╔══════════════════════════════════════════════════════════════╗
 
+    ║  ██████╗ ██████╗ ██████╗ ███████╗██████╗                   ║
+
+    ║  ██╔════╝██╔═══██╗██╔══██╗██╔════╝██╔══██╗                  ║
+
+    ║  ██║     ██║   ██║██║  ██║█████╗  ██████╔╝                  ║
+
+    ║  ██║     ██║   ██║██║  ██║██╔══╝  ██╔══██╗                  ║
+
+    ║  ╚██████╗╚██████╔╝██████╔╝███████╗██║  ██║                  ║
+
+    ║   ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝  v2.4.1         ║
+
+    ╚══════════════════════════════════════════════════════════════╝
+
+    
 
 Sai Ankit Panda@github
 ---------------------------------
@@ -65,11 +61,7 @@ Focus:     "DSA • System Design • Quant Finance"
 
 Languages: Java, Python, JavaScript, C++
 Stack:     React, Node.js, Docker, PostgreSQL
-Tools:     Git, Linux, AWS, Kubernetes
-
-Projects:
-  • Pulse360 (Hospital Operations Platform)
-  • Smart Stock Price Predictor (ML)
+Tools:     Git, Linux,
 
 Learning:
   • Advanced DSA (Java)
