@@ -54,18 +54,20 @@
 <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css,rust,nodejs,express,react,nextjs,redux,postgres,mongodb,redis,docker,kubernetes,aws,nginx,git,firebase,figma,linux" />
 </p>
 
-# 📈 Contribution Graph
+---
+
+# 📅 Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saiankitpanda&theme=tokyo-night&hide_border=true"/>
+<img src="assets/github-contributions.png" width="100%">
 </p>
 
 ---
 
-# 🧠 Most Used Languages
+# 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiankitpanda&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saiankitpanda&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
