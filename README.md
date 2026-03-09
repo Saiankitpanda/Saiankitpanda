@@ -54,14 +54,6 @@
 <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css,rust,nodejs,express,react,nextjs,redux,postgres,mongodb,redis,docker,kubernetes,aws,nginx,git,firebase,figma,linux" />
 </p>
 
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=saiankitpanda&theme=tokyonight&hide_border=true&border_radius=10&card_width=800" />
-</p>
-
 # 📈 Contribution Graph
 
 <p align="center">
